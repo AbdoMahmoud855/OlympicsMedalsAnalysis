@@ -72,7 +72,7 @@ ORDER BY year;
 ## 🗂️ Data Source
 
 The dataset is available here:
-🔗 [Add the dataset link]
+🔗 [[Add the dataset link](https://www.kaggle.com/datasets/the-guardian/olympic-games?select=summer.csv)]
 
 > The data is not included in this repository. Download it and import it into SQL Server as a table named `summer` before running the queries.
 
